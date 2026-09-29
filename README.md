@@ -82,6 +82,45 @@ Student:
 9. As a student, I want to quiz questions and correct answers to be saved in the app so I can review them when studying.
 10. As a student, I want to join my class's project so I can access the slides and materials shared by my instructor.
 
+
+## Activity Diagrams
+
+### 1. Create Project
+![Create project](./UML/1-create-project.png)
+An instructor should be able to make a project, and easily send out the projects to the students in their class.
+
+### 2. Review and Publish Materials
+![Review and publish materials](./UML/2-review-and-publish-materials.png)
+An instructor should be able to review a generated summary, quiz, and answer key. They should be able to edit the content, and send it out to their students.
+
+### 3. Join Instructor Project
+![Join instructor project](./UML/3-join-instructor-project.png)
+A student should be able to easily join an instructor project from a join code or invitation link, and access the shared materials.
+
+### 4. Review Lecture and Quiz
+![Review lecture and quiz](./UML/4-review-lecture-and-quiz.png)
+A student should be able to review the existing lectures in their class, look at the lecture summary, and open the past exit-ticket questions and answers.
+
+See instructions. Delete this line and place images of your UML Activity diagrams here, each with the text of the user story it illustrates.
+
+## Wireframes
+
+https://www.figma.com/design/QT7DyXK1LxgwSR11gh1XCS/sakjp-wireframe-project-1?node-id=0-1&t=xUagaqxojrW13Ulz-1
+
+
+## Clickable Prototype
+
+See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+
+## Stakeholder Demo
+
+See instructions. Delete this line and place a link to the deck The Slide Machine generated during your presentation here, after you have presented.
+
+## Exit Ticket
+
+See instructions. Delete this line and place a link to the exit-ticket quiz you generated from your demo deck and distributed to the class, along with a short note on what — if anything — you had to correct in the generated questions before publishing.
+
+## Notes + Planning
 ## Core Feature Changes (Ideation for onboarding)
 - onboarding
 - new membership concept
@@ -125,40 +164,4 @@ After these two different flows,
     * if a student decides to The slides go into the same flow for the slideshow as the professor does
 * you're all set 
 
-
-## Activity Diagrams
-
-### 1. Create Project
-![Create project](./UML/1-create-project.png)
-An instructor should be able to make a project, and easily send out the projects to the students in their class.
-
-### 2. Review and Publish Materials
-![Review and publish materials](./UML/2-review-and-publish-materials.png)
-An instructor should be able to review a generated summary, quiz, and answer key. They should be able to edit the content, and send it out to their students.
-
-### 3. Join Instructor Project
-![Join instructor project](./UML/3-join-instructor-project.png)
-A student should be able to easily join an instructor project from a join code or invitation link, and access the shared materials.
-
-### 4. Review Lecture and Quiz
-![Review lecture and quiz](./UML/4-review-lecture-and-quiz.png)
-A student should be able to review the existing lectures in their class, look at the lecture summary, and open the past exit-ticket questions and answers.
-
-See instructions. Delete this line and place images of your UML Activity diagrams here, each with the text of the user story it illustrates.
-
-## Wireframes
-
-https://www.figma.com/design/QT7DyXK1LxgwSR11gh1XCS/sakjp-wireframe-project-1?node-id=0-1&t=xUagaqxojrW13Ulz-1
-
-
-## Clickable Prototype
-
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
-
-## Stakeholder Demo
-
-See instructions. Delete this line and place a link to the deck The Slide Machine generated during your presentation here, after you have presented.
-
-## Exit Ticket
-
-See instructions. Delete this line and place a link to the exit-ticket quiz you generated from your demo deck and distributed to the class, along with a short note on what — if anything — you had to correct in the generated questions before publishing.
+Offboarding section is showing where the quizzes are stored!
