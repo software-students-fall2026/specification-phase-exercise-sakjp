@@ -132,15 +132,19 @@ After these two different flows,
 
 ### 1. Create Project
 ![Create project](./UML/1-create-project.png)
+An instructor should be able to make a project, and easily send out the projects to the students in their class.
 
 ### 2. Review and Publish Materials
 ![Review and publish materials](./UML/2-review-and-publish-materials.png)
+An instructor should be able to review a generated summary, quiz, and answer key. They should be able to edit the content, and send it out to their students.
 
 ### 3. Join Instructor Project
 ![Join instructor project](./UML/3-join-instructor-project.png)
+A student should be able to easily join an instructor project from a join code or invitation link, and access the shared materials.
 
 ### 4. Review Lecture and Quiz
 ![Review lecture and quiz](./UML/4-review-lecture-and-quiz.png)
+A student should be able to review the existing lectures in their class, look at the lecture summary, and open the past exit-ticket questions and answers.
 
 See instructions. Delete this line and place images of your UML Activity diagrams here, each with the text of the user story it illustrates.
 
