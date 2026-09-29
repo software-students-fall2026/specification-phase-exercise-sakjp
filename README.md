@@ -114,11 +114,11 @@ See instructions. Delete this line and place a publicly-accessible link to your 
 
 ## Stakeholder Demo
 
-See instructions. Delete this line and place a link to the deck The Slide Machine generated during your presentation here, after you have presented.
+https://theslidemachine.com/d/untitled-c7a88bb7
 
 ## Exit Ticket
 
-See instructions. Delete this line and place a link to the exit-ticket quiz you generated from your demo deck and distributed to the class, along with a short note on what — if anything — you had to correct in the generated questions before publishing.
+https://docs.google.com/forms/d/e/1FAIpQLSdOxW7Kq8FxCUkV8mQk_72PZSOBEAaJ56lJ4kqJryC08X1S0Q/viewform
 
 ## Notes + Planning
 ## Core Feature Changes (Ideation for onboarding)
