@@ -69,6 +69,11 @@ Instructor:
 9. As an instructor, I want to be able to send project members a revised AI summary of the generated slides.
 10. As an instructor, I want to automate sharing of past quizzes and answer keys so that students can review materials for exams.
 
+Goals:
+1. The current landing page does not clearly explain what to do.
+2. Long presentations are cumbersome to navigate.
+3. Slide generation can perform poorly with noise/long input.
+4. There is no clear class/project-level organization for lecture materials.
 
 Student:
 1. As a student, I want to access all of my class's slides to review/reinforce information from my lectures.
@@ -82,6 +87,11 @@ Student:
 9. As a student, I want to quiz questions and correct answers to be saved in the app so I can review them when studying.
 10. As a student, I want to join my class's project so I can access the slides and materials shared by my instructor.
 
+Goals:
+1. Easily find and review class lectures.
+2. Navigate long presentations efficiently.
+3. Access quizzes and answers after lectures.
+4. Create/edit presentations without extensive manual formatting.
 
 ## Activity Diagrams
 
