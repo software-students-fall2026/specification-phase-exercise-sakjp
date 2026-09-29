@@ -128,8 +128,6 @@ After these two different flows,
 
 ## Activity Diagrams
 
-## UML Diagrams
-
 ### 1. Create Project
 ![Create project](./UML/1-create-project.png)
 An instructor should be able to make a project, and easily send out the projects to the students in their class.
@@ -150,7 +148,8 @@ See instructions. Delete this line and place images of your UML Activity diagram
 
 ## Wireframes
 
-See instructions. Delete this line and place your wireframe diagrams here, covering every new screen and every existing screen your proposal changes, for every type of user.
+https://www.figma.com/design/QT7DyXK1LxgwSR11gh1XCS/sakjp-wireframe-project-1?node-id=0-1&t=xUagaqxojrW13Ulz-1
+
 
 ## Clickable Prototype
 
