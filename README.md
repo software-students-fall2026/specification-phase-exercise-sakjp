@@ -128,6 +128,20 @@ After these two different flows,
 
 ## Activity Diagrams
 
+## UML Diagrams
+
+### 1. Create Project
+![Create project](./specification/UML/1-create-project.png)
+
+### 2. Review and Publish Materials
+![Review and publish materials](./specification/UML/2-review-and-publish-materials.png)
+
+### 3. Join Instructor Project
+![Join instructor project](./specification/UML/3-join%20instructor-project.png)
+
+### 4. Review Lecture and Quiz
+![Review lecture and quiz](./specification/UML/4-review-lecture-and-quiz.png)
+
 See instructions. Delete this line and place images of your UML Activity diagrams here, each with the text of the user story it illustrates.
 
 ## Wireframes
