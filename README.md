@@ -101,8 +101,6 @@ A student should be able to easily join an instructor project from a join code o
 ![Review lecture and quiz](./UML/4-review-lecture-and-quiz.png)
 A student should be able to review the existing lectures in their class, look at the lecture summary, and open the past exit-ticket questions and answers.
 
-See instructions. Delete this line and place images of your UML Activity diagrams here, each with the text of the user story it illustrates.
-
 ## Wireframes
 
 https://www.figma.com/design/QT7DyXK1LxgwSR11gh1XCS/sakjp-wireframe-project-1?node-id=0-1&t=xUagaqxojrW13Ulz-1
