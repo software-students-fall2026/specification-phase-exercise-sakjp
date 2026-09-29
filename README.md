@@ -137,7 +137,7 @@ After these two different flows,
 ![Review and publish materials](./UML/2-review-and-publish-materials.png)
 
 ### 3. Join Instructor Project
-![Join instructor project](./UML/3-join%20instructor-project.png)
+![Join instructor project](./UML/3-join-instructor-project.png)
 
 ### 4. Review Lecture and Quiz
 ![Review lecture and quiz](./UML/4-review-lecture-and-quiz.png)
