@@ -124,6 +124,8 @@ https://www.figma.com/design/ZG6PAbyMDMZJI0wl2gBbTn/sakjp-prototype?node-id=0-1&
 
 https://theslidemachine.com/d/untitled-c7a88bb7
 
+https://drive.google.com/file/d/1z2ET84ol91y420GLHme3HhpgSmpOtdJg/view?usp=sharing
+
 ## Exit Ticket
 
 https://docs.google.com/forms/d/e/1FAIpQLSfdZt9LtCgOrfkh1qWiJWx14eQzl46f7RDjO1shuSDmcbfVFg/viewform
