@@ -126,7 +126,7 @@ https://theslidemachine.com/d/untitled-c7a88bb7
 
 ## Exit Ticket
 
-https://docs.google.com/forms/d/e/1FAIpQLSdOxW7Kq8FxCUkV8mQk_72PZSOBEAaJ56lJ4kqJryC08X1S0Q/viewform
+https://docs.google.com/forms/d/e/1FAIpQLSfdZt9LtCgOrfkh1qWiJWx14eQzl46f7RDjO1shuSDmcbfVFg/viewform
 
 ## Notes + Planning
 ## Core Feature Changes (Ideation for onboarding)
