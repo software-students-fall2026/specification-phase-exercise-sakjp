@@ -118,7 +118,7 @@ https://www.figma.com/design/QT7DyXK1LxgwSR11gh1XCS/sakjp-wireframe-project-1?no
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+https://www.figma.com/design/ZG6PAbyMDMZJI0wl2gBbTn/sakjp-prototype?node-id=0-1&t=cIvwfXfAnON51DtO-1
 
 ## Stakeholder Demo
 
