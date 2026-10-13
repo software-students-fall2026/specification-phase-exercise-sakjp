@@ -113,22 +113,22 @@ A student should be able to review the existing lectures in their class, look at
 
 ## Wireframes
 
-https://www.figma.com/design/QT7DyXK1LxgwSR11gh1XCS/sakjp-wireframe-project-1?node-id=0-1&t=xUagaqxojrW13Ulz-1
+[Wireframes](https://www.figma.com/design/QT7DyXK1LxgwSR11gh1XCS/sakjp-wireframe-project-1?node-id=0-1&t=xUagaqxojrW13Ulz-1)
 
 
 ## Clickable Prototype
 
-https://www.figma.com/design/ZG6PAbyMDMZJI0wl2gBbTn/sakjp-prototype?node-id=0-1&t=cIvwfXfAnON51DtO-1
+[Clickable Prototype](https://www.figma.com/proto/ZG6PAbyMDMZJI0wl2gBbTn/sakjp-prototype?node-id=1-2&t=tsHnpcdFAqGmTfBW-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2)
 
 ## Stakeholder Demo
 
-https://theslidemachine.com/d/untitled-c7a88bb7
+[The Slide Machine](https://theslidemachine.com/d/untitled-c7a88bb7)
 
-https://drive.google.com/file/d/1z2ET84ol91y420GLHme3HhpgSmpOtdJg/view?usp=sharing
+[Demo](https://drive.google.com/file/d/1z2ET84ol91y420GLHme3HhpgSmpOtdJg/view?usp=sharing)
 
 ## Exit Ticket
 
-https://docs.google.com/forms/d/e/1FAIpQLSfdZt9LtCgOrfkh1qWiJWx14eQzl46f7RDjO1shuSDmcbfVFg/viewform
+[Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSfdZt9LtCgOrfkh1qWiJWx14eQzl46f7RDjO1shuSDmcbfVFg/viewform)
 
 ## Notes + Planning
 ## Core Feature Changes (Ideation for onboarding)
